@@ -1,3 +1,3 @@
 # hello-world
-initial repository
+initial repository - update from new dev environment
 Learning to code from Charleston, SC
